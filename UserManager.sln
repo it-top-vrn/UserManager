@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManagerApp", "UserManagerApp\UserManagerApp.csproj", "{FE129C35-5DE6-4F7C-B00F-B14077142D5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfAuthorizationLib", "ChainOfAuthorizationLib\ChainOfAuthorizationLib.csproj", "{51F476D3-BD94-4FEF-A2DD-CFFEC994E5EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE129C35-5DE6-4F7C-B00F-B14077142D5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE129C35-5DE6-4F7C-B00F-B14077142D5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE129C35-5DE6-4F7C-B00F-B14077142D5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE129C35-5DE6-4F7C-B00F-B14077142D5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51F476D3-BD94-4FEF-A2DD-CFFEC994E5EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F476D3-BD94-4FEF-A2DD-CFFEC994E5EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F476D3-BD94-4FEF-A2DD-CFFEC994E5EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F476D3-BD94-4FEF-A2DD-CFFEC994E5EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
