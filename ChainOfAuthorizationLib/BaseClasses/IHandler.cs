@@ -1,6 +1,4 @@
-﻿using System.Diagnostics.SymbolStore;
-
-namespace ChainOfAuthorizationLib
+﻿namespace ChainOfAuthorizationLib.BaseClasses
 {
     public interface IHandler
     {

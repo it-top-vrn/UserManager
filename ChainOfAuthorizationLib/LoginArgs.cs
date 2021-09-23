@@ -1,7 +1,13 @@
-﻿namespace ChainOfAuthorizationLib
+﻿using ChainOfAuthorizationLib.BaseClasses;
+using ChainOfAuthorizationLib.DataBase;
+
+namespace ChainOfAuthorizationLib
 {
-    public class LoginArgs : IArgs
+    public class AuthArgs : IArgs
     {
-        public string Login { get; set; }
+        public string InputLogin { get; set; }
+        public string InputPassword { get; set; }
+        
+        public Account Account { get; set; }
     }
 }
